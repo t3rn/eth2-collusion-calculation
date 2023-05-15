@@ -18,8 +18,8 @@ The Jupyter notebook is split into two main sections:
 
 You can adjust the total number of validators (n), the accepted majority values, and specific marker points according to your needs.
 
-**Contributing**
+## Contributing
 If you wish to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-**License**
+## License
 The code in this project is licensed under MIT license.
